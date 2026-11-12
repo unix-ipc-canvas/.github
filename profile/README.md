@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/unix-ipc-canvas/canvas">canvas</a> (팀 비공개 저장소)
+  <a href="https://github.com/unix-ipc-canvas/canvas">canvas</a>
 </p>
 
 ---
